@@ -32,9 +32,16 @@ In this project, I have used these following **Azure Cognitive Services** into m
 
 ## Background working of Azure Cognitive Services:
 
-![Screenshot_20220228-122919 (1)](https://user-images.githubusercontent.com/91502734/155944983-6dc91296-9c99-4a63-92d3-79b7c701a480.jpg)
+![Customer service bot](https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/media/cognitive/cognitive-customer-service-bot.png)
 
 Here, in the above diagram, explains how cognitive services work in background.  
+Architecture Services
 
-With the help of Azure QnA maker we have created an knowledge base, then this knowledge base is connected to our azure chatbot and this chat bot is then embedded to our google site DevOps Master --> Client Device sends input to the Bot --> Azure Language understanding understands the client queries and automatically chooses an knowledge base and hence finds the similar answer and sends the output.
+Azure Bot Service - Azure out-of-the-box solution for building serverless and scalable bots.
+Azure Language Understanding (LUIS) - Applies custom machine-learning intelligence to a user's conversational, natural language text to predict overall meaning, and pull out relevant, detailed information.
+Azure QnA Maker - Creates a question and answer repository of data based on information you provide.
+Azure Application Insights - Optionally used to monitor the customer service bot. It will automatically detect performance anomalies and help understand what users actually do with the bot.
+
+With the help of Azure QnA maker we have created an knowledge base, then this knowledge base is connected to our azure chatbot and this chat bot is then embedded to our Website- Smart Campus --> Client Device sends input to the Bot --> Azure Language understanding understands the client queries and automatically chooses an knowledge base and hence finds the similar answer and sends the output.
+
 
