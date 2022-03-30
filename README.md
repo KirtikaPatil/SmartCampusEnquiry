@@ -46,29 +46,47 @@ With the help of Azure QnA maker we have created an knowledge base, then this kn
 
 ## Steps followed: 
 Step 1: Created an Azure Resource Group named "Collegeinformation". 
+
 ![1](https://user-images.githubusercontent.com/81363651/160895285-a85ed137-9eb0-419e-a762-99347a5c46f5.JPG)
 
+
 Step 2: Created Azure QnA Maker.
+
 ![2](https://user-images.githubusercontent.com/81363651/160895349-d0b13eb0-f68e-4b15-911f-5811d2550841.JPG)
 
+
 Step 3: Created an Azure Knowledge Base:
+
 ![3](https://user-images.githubusercontent.com/81363651/160895394-a4fab88b-ad9a-48a3-aaf8-7d62d2be78c6.JPG)
+
 ![4](https://user-images.githubusercontent.com/81363651/160895498-1c2b9554-079b-4f14-9cfb-36c538e028f5.JPG)
+
  
 Step 4: Train the Bot using test feature in Knowledge Base:
+
 ![5](https://user-images.githubusercontent.com/81363651/160895558-f312ee53-acc5-483e-a9fb-d39b514ec874.JPG)
 
+
 Step 5: Publishing the Bot by creating Azure Bot 
+
 ![6](https://user-images.githubusercontent.com/81363651/160895630-6e7ab2f4-4e29-41c4-ad58-2c065d210865.JPG)
+
 ![7](https://user-images.githubusercontent.com/81363651/160895695-cac68a8e-e6ef-4e46-a320-dfbf4a263400.JPG)
+
 ![8](https://user-images.githubusercontent.com/81363651/160895712-50f6f0d8-acc8-492e-9416-c0232172d76b.JPG)
 
+
 Step 6: Copying the Embedded code and Secret Key to Website source code to enable our chatbot to work
+
 ![9](https://user-images.githubusercontent.com/81363651/160895805-b60141e1-3cdb-49ba-91d3-2865de9823e0.JPG)
+
 ![10](https://user-images.githubusercontent.com/81363651/160895830-ead1345b-2e43-41e2-a2b1-81c79dba2a21.JPG)
 
+
 Step 7: Testing on Actual Website if the bot is working or not. 
+
 ![11](https://user-images.githubusercontent.com/81363651/160895934-83722994-4844-4b9e-83f9-66d84c983044.JPG)
+
 
 
 ## Project Link: https://smartcampusenquiry.kirtika-dd.repl.co/
