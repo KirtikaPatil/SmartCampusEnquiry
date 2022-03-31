@@ -7,8 +7,7 @@
 - Microsoft Azure
 
 In this project I have taken **Microsoft Azure** as primary technology.
-Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. These services and resources include storing your data and transforming it, depending on your requirements. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal. It was launched on February 1, 2010, significantly later than its main competitor, AWS.
-It’s free to start and follows a pay-per-use model, which means you pay only for the services you opt for.
+Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. These services and resources include storing your data and transforming it, depending on your requirements. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal. It was launched on February 1, 2010.
 Interestingly, 80 percent of the Fortune 500 companies use Azure services for their cloud computing needs.
 
 
